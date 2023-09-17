@@ -1,1 +1,1 @@
-PHP biasa digunakan untuk backend pada web programming
+PHP biasa digunakan untuk backend pada web programming, namun kata orang yang terpenting ialah paham javascript.
